@@ -1,5 +1,21 @@
 # Egyemb_AVR_kit_Drivers
 - This folder include all kit driver for EGYEMB kit 
+- This Kit is based on Atmega16 which included:
+      - Portable LCD 2X16
+      - keypad 3x3
+      - 2 push button connected to external interrupt
+      - 2 internal LEDs.
+      - Relay with led. 
+      - Buzzer connected to PWM.
+      - 9 to 5 volt Regulator. 
+      - 2 variable resistance connected to ADC0 and ADC1.
+      - Internal burner.
+      - 2 seven segment with 7447 decoder
+      - External EEPROM.
+- Open Driver file and install Khazam and extreme burner
+- Use Test.hex to check all Kit Hardware
+
 - This derivers is compatible with Atmega16/32
-- The package include USB Cable + Kit + 2 jumber  
-- Total Cost: 400LE ~= 25$
+
+- feel free to contact me in our official FB Page: https://www.facebook.com/egyemb/
+- The package include USB Cable + Kit + 2 jumber with total Cost: 400LE ~= 25$
