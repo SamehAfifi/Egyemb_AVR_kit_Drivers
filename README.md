@@ -19,3 +19,12 @@
 
 - feel free to contact me in our official FB Page: https://www.facebook.com/egyemb/
 - The package include USB Cable + Kit + 2 jumber with total Cost: 400LE ~= 25$
+
+
+- About Test.hex Code:
+--- Press on  pushbutton 1 : test Push button PINB3 and PINB2
+--- Press on  pushbutton 2 : test 7-segment "note: put jumber 1 and 2 above seven segment 1 and 2 (JP3,JP4)"
+--- Press on  pushbutton 3 : Toggle leds, buzzer and relay every 0.5 msec "Put jumber on led1, led2, relay and buzzer (JP5, JP6, JP2, JP1)"
+--- Press on  pushbutton 4 : Test ADC0 
+--- Press on  pushbutton 5 : Test ADC1
+
