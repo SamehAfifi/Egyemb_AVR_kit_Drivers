@@ -1,0 +1,9 @@
+1. Select the “Start” button. Type “startup”.
+2. Select “Change advanced startup settings“.
+3. Select “Restart now” under the “Advanced startup” area.
+4. Select “Troubleshoot“ --> Select “Advanced Options“ --> Select “Startup Options“ --> Select “Restart“.
+5. A menu will appear after the restart happened --> press “7” on your keyboard to choose “Disable driver signing enforcement“.
+6. Connect your Kit to PC 
+7. Select the "Start button" then type Device driver
+8. Right click on "USBASP" and choose update driver
+9. Select "browse my computer" and choose the location of Khazma folder in your PC -->"C:\Program Files (x86)\khazama.com\Khazama AVR Programmer"
